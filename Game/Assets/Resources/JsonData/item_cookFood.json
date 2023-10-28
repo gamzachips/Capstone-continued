@@ -1,0 +1,10 @@
+{"info":
+[
+{"id":"F0","name":"샌드위치","purchase_price":0,"sell_price":5,"food_grade":2,"energy":25},
+{"id":"F1","name":"팝콘","purchase_price":0,"sell_price":2,"food_grade":2,"energy":20},
+{"id":"F2","name":"생선구이","purchase_price":0,"sell_price":5,"food_grade":2,"energy":30},
+{"id":"F3","name":"커피","purchase_price":0,"sell_price":3,"food_grade":2,"energy":10},
+{"id":"F4","name":"케이크","purchase_price":0,"sell_price":10,"food_grade":2,"energy":40},
+{"id":"F5","name":"수제 햄버거","purchase_price":0,"sell_price":5,"food_grade":2,"energy":35},
+{"id":"F6","name":"쿠키","purchase_price":0,"sell_price":3,"food_grade":2,"energy":15}
+]}
